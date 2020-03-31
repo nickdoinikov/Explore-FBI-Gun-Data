@@ -9,12 +9,12 @@ This project in the part of the ***"Data Analyst Nanodegree"*** by Udacity. In t
 The goal was to perform the ***Data Analysis Process*** from start to finish:
 1. Get the data from its source (in this case - from Github repository)
 2. Perform necessary ***Data Wrangling***, in this case:
-..* check for duplicated rows ;
-..* check for NaN values and fill them in with data;
-..* work with datatypes and adjust them, if necessary.
+  * check for duplicated rows ;  
+  * check for NaN values and fill them in with data;  
+  * work with datatypes and adjust them, if necessary.  
 3. Ask questions about the dataset, in his case :
-..* ***Question 1*** : How did the split by gun type change for the state with the highest number of background checks in 1998-2017?
-..* ***Question 2*** : Is there any seasonality in the trend for long gun and handgun background checks in the state of New York in the first decade of the XXI century (2000-2009)?
+  * ***Question 1*** : How did the split by gun type change for the state with the highest number of background checks in 1998-2017?  
+  * ***Question 2*** : Is there any seasonality in the trend for long gun and handgun background checks in the state of New York in the first decade of the XXI century (2000-2009)?  
 4. Create necessary visualizations to answer these questions by using aggregations and by building plots.
 
 ### Files used
